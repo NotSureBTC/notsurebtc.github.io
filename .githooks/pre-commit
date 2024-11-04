@@ -1,0 +1,10 @@
+#!/bin/sh
+
+# Set the desired username and email
+export GIT_AUTHOR_NAME="notsurebtc"
+export GIT_AUTHOR_EMAIL="notsurebtc@gmail.com"
+export GIT_COMMITTER_NAME="notsurebtc"
+export GIT_COMMITTER_EMAIL="notsurebtc@gmail.com"
+
+# Proceed with the commit
+exit 0
